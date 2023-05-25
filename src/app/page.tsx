@@ -1,7 +1,7 @@
 'use client'
 import Image from 'next/image'
 import Link from 'next/link'
-import sands from '../../public/IMG_0424.jpeg'
+import picture from '../../public/ai-generated-7974541_1280.png'
 import {
   GithubLogo,
   InstagramLogo,
@@ -18,7 +18,7 @@ export default function Home() {
             <div className="flex h-[150px] w-[150px] items-center justify-center rounded-full border-[2px] border-solid border-purple-600 p-1">
               <Image
                 alt=""
-                src={sands}
+                src={picture}
                 className="h-full w-full rounded-full object-cover"
               />
             </div>

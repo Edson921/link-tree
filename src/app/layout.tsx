@@ -4,8 +4,8 @@ import React from 'react'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: '',
-  description: '',
+  title: 'home-link-tree',
+  description: 'A link tree site mde by sandy thinker',
 }
 
 export default function RootLayout({

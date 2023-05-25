@@ -15,6 +15,7 @@ Check live demonstration [here](https://edson921.github.io/link-tree/)
 - [ReactJS](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Tailwindcss](https://www.tailwindcss.com/)
+- [Phosphoricons](https://www.https://phosphoricons.com/)
 
 
 ## 🚀 Clone This Project In Your Local Machine:
